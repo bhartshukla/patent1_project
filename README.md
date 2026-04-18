@@ -221,3 +221,25 @@ Confidence Score
 Satisfaction Score
 
 = satisfaction_words - dissatisfaction_words
+
+
+
+[User Input]  
+      ↓  
+[Question Module]  
+      ↓  
+[Text Processing Module]  
+      ↓  
+[Sentiment Analysis Engine]  
+      ↓  
+[Emotional Scoring Engine]  
+      ↓  
+[Aggregation Engine]  
+      ↓  
+[Mental Health Score (0–10)]  
+      ↓  
+[Condition Classifier (Good/Neutral/Bad)]  
+      ↓  
+[Recommendation Engine]  
+      ↓  
+[User Interface Output]
