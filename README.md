@@ -193,3 +193,31 @@ Founder & CEO – XBzin AI Hub
 ## ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub!
+
+
+# formula 
+
+User Input
+   ↓
+[Phase 1] Context-Aware Emotion Engine (CAEE)
+   ↓
+[Phase 2] Cognitive Distortion Detection (CDDE)
+   ↓
+[Phase 3] Behavioral Inference Engine (BIE)
+   ↓
+[Phase 4] MHSI Scoring Engine
+   ↓
+Risk Prediction + Recommendations
+
+📊 USP SCORE DEFINITIONS
+Happiness Score
+
+= positive_words - negative_words + sentiment boost
+
+Confidence Score
+
+= confidence_words - low_confidence_words
+
+Satisfaction Score
+
+= satisfaction_words - dissatisfaction_words
